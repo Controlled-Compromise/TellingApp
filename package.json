@@ -25,7 +25,7 @@
     "expo": "^52.0.28",
     "expo-constants": "^17.0.5",
     "expo-linking": "^7.0.5",
-    "expo-router": "^3.1.0",
+    "expo-router": "^58.0.30",
     "expo-status-bar": "~2.0.1",
     "firebase": "^11.2.0",
     "lucide-react": "^0.474.0",
